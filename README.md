@@ -206,7 +206,6 @@ public class AboutMe {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amritha%20Rajendran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amritha-rajendran-68041a288)
 [![GitHub](https://img.shields.io/badge/GitHub-amritha--r-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amritha-r)
 [![Profile Views](https://komarev.com/ghpvc/?username=amritha-r&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/amritha-r)
 
